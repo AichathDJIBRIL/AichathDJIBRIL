@@ -1,0 +1,8 @@
+.flexbox{
+    display: flex;
+}
+
+.flexbox h3{
+    padding-top: 5rem;
+    padding-left: 5rem;
+}
