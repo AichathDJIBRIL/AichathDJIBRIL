@@ -1,0 +1,16 @@
+nav li{
+    list-style: none;
+    display: flex;
+    width: 100%;
+}
+
+nav li a{
+    text-decoration: underline;
+    color: #000;
+}
+
+nav li a:hover{
+    border-bottom: 2px solid #c96e05fd;
+    transition: .5s;
+    bottom: 0;
+}
