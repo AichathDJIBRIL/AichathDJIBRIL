@@ -14,3 +14,24 @@ nav li a:hover{
     transition: .5s;
     bottom: 0;
 }
+
+.flexbox{
+    display: flex;
+}
+
+.flexbox h3{
+    padding-top: 5rem;
+    padding-left: 5rem;
+}
+
+.bg-color{
+    background-color: rgb(167, 35, 68);
+    height: 50vh;
+    margin-top: 5rem;
+}
+
+.bg-color p{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 15rem;
+}
